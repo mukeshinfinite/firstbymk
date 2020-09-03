@@ -1,3 +1,6 @@
 I am Java programmer. I have 8.9 years experience in following Technologies:
 Java/J2EE(JSP,Servlet), 
 Spring
+Spring Core
+Spring AOP
+Spring MVC
